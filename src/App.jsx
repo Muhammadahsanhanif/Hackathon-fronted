@@ -8,9 +8,9 @@ import PasswordPopup from "./pages/addNewpassword";
 import Requests from "./pages/requests";
 import Business from "./pages/adminBusiness";
 import Educational from "./pages/adminEducational";
-import HomeConstructionLoanPage from "./pages/AdminHomeConstruction";
 import WeddingLoanPage from "./pages/AdminWeddings";
 import AdminPage from "./pages/adminPage";
+import HomeConstructionLoanPage from "./pages/adminHomeConstruction";
 
 function App() {
   return (
