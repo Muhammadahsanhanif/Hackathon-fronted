@@ -1,0 +1,9 @@
+
+Installed libraries 
+
+
+1.react router
+2.tailwind  
+3.axios
+4. cookies 
+5.toastify
